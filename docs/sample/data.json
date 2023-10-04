@@ -24,36 +24,36 @@
             },
             "pois": [{
                     "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "lat": "43.55280999305854", 
+                    "lon": "-5.9226716035042",
+                    "type": "parque",
+                    "name": "Parque Ferrera de Avilés",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://avilescomarca.info/que-hacer/casco-historico-de-aviles/parque-de-ferrera/",
+                        "https://aviles.es/parque-de-ferrera"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Parque público de estilo inglés que fue propiedad de diferentes marqueses ",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://aviles.es/parque-de-ferrera"
                     ]
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "lat": "43.55577912515779",
+                    "lon": "-5.922086851427541",
+                    "type": "casco historico",
+                    "name": "Casco Histórico",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://aviles.es/casco-historico",
+                        "https://avilescomarca.info/wp-content/uploads/2016/10/El-Carbayu.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "El casco antiguo de la ciudad española de Avilés fue declarado Conjunto Histórico-Artístico el 27 de mayo de 1955. En la villa se encuentran bastantes obras importantes de carácter tanto religioso como civil, calles como Galiana, Rivero, La Ferrería o San Francisco atestiguan su milenaria historia con magníficos edificios y característicos soportales.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://es.wikipedia.org/wiki/Conjunto_Hist%C3%B3rico_Art%C3%ADstico_de_Avil%C3%A9s",
+                        "https://aviles.es/casco-historico"
                     ]
                 }
             ]
